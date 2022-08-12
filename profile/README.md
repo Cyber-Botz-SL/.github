@@ -15,6 +15,7 @@
 <p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph/file/23a121d72447f639a8266.jpg"></a></p> 
 
 <h2 align="center">We Are Cyber Bots SL. We Are Making UseFull Bots For You.</h2>
+> Guys Please Give Stars Our Repo
 
 ## Conect With Our Team
 > Our Web Is Coming Zoon
@@ -36,4 +37,12 @@
 [SAVINDU DESHAN](https://github.com/SAVINDU-DESHAN)
 
 [ThilinaWeerasekara](https://github.com/Thilinaweerasekara2003)
+
+## Our New Teams
+
+[Team Semmy](https://github.com/TeamSemmy)
+> Join And Give Stars Our Repo
+
+[Emo Bot Industry](https://github.com/EmoBot-Industry)
+> Join And Give Stars Our Repos
 
